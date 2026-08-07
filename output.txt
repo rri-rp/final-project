@@ -1,0 +1,4 @@
+Plain text: GHOST
+Key: LICHY
+Encrypted text: 0B010C1B0D
+Decrypted text: GHOST
