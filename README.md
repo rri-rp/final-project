@@ -283,4 +283,4 @@ The last hard part was using XOR two times. The first XOR encrypts the message. 
 
 YouTube submission link:
 
-[Watch the Final Project Presentation](PASTE_YOUTUBE_LINK_HERE)
+[Watch the Final Project Presentation](https://youtu.be/XvpZRc180ko?feature=shared)
