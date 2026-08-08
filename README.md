@@ -14,7 +14,7 @@ Everything is saved in `output.txt`.
 
 ## Flowchart
 
-[Open the flowchart](flowchart.png)
+![flowchart](flowchart.png)
 
 ## How It Works
 
