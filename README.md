@@ -278,3 +278,9 @@ The second hard part was making the encrypted bytes printable.
 The program shows each encrypted byte as two hexadecimal characters.
 
 The last hard part was using XOR two times. The first XOR encrypts the message. The second XOR brings the message back.
+
+## Video Presentation
+
+YouTube submission link:
+
+[Watch the Final Project Presentation](PASTE_YOUTUBE_LINK_HERE)
